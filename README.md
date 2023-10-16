@@ -1,9 +1,4 @@
-# CheckPointJS
+# Website Vinheria
 
-Website voltado para a vinheria nas disciplinas de Web Development with Javascript e Front-End Design. 
-Realizado pelos alunos:
-- 99505 / Matheus Lucas
-- 550416 / Bruno Silva Bastos
-- 550187 / Gabriel Freitas Maradei
-- 98611 / Guilherme Gonçalves Calil Daher
-- 98607 / Lucas Vassão Braga
+Projeto voltado para a criação de um website (utilizando React) para uma vinheria. Nesta etapa desenvolvi o header, aside e footer da página.
+Para iniciar o projeto, é necessário utilizar o comando "npm install" no terminal para instalar suas dependências e depois "npm start" para inicializar.
